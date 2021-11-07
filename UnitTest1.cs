@@ -24,7 +24,7 @@ namespace SSE_TASK_1
         [TestMethod]
         public void testMutiply()
         {
-            Assert.AreEqual(6, Multiply(3, 2));
+            Assert.AreEqual(6, Multiply(3, 2)); // Check multiplication test
         }
 
         [TestMethod]
